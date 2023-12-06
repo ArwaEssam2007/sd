@@ -1,0 +1,37 @@
+C:\Users\Administrator\source\repos\Arwa_0522093\Arwa_0522093\obj\Debug\Arwa_0522093.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Arwa_0522093\Arwa_0522093\obj\Debug\Arwa_0522093.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\Arwa_0522093\Arwa_0522093\obj\Debug\forget password.g.cs
+C:\Users\Administrator\source\repos\Arwa_0522093\Arwa_0522093\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\source\repos\Arwa_0522093\Arwa_0522093\obj\Debug\profail.g.cs
+C:\Users\Administrator\source\repos\Arwa_0522093\Arwa_0522093\obj\Debug\sign up.g.cs
+C:\Users\Administrator\source\repos\Arwa_0522093\Arwa_0522093\obj\Debug\sign_in.g.cs
+C:\Users\Administrator\source\repos\Arwa_0522093\Arwa_0522093\obj\Debug\Arwa_0522093_Content.g.cs
+C:\Users\Administrator\source\repos\Arwa_0522093\Arwa_0522093\obj\Debug\Arwa_0522093_MarkupCompile.cache
+C:\Users\Administrator\source\repos\Arwa_0522093\Arwa_0522093\obj\Debug\Arwa_0522093_MarkupCompile.lref
+C:\Users\Administrator\source\repos\Arwa_0522093\Arwa_0522093\bin\Debug\Arwa_0522093.exe.config
+C:\Users\Administrator\source\repos\Arwa_0522093\Arwa_0522093\bin\Debug\Arwa_0522093.exe
+C:\Users\Administrator\source\repos\Arwa_0522093\Arwa_0522093\bin\Debug\Arwa_0522093.pdb
+C:\Users\Administrator\source\repos\Arwa_0522093\Arwa_0522093\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\source\repos\Arwa_0522093\Arwa_0522093\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\source\repos\Arwa_0522093\Arwa_0522093\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\source\repos\Arwa_0522093\Arwa_0522093\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\source\repos\Arwa_0522093\Arwa_0522093\obj\Debug\App.g.cs
+C:\Users\Administrator\source\repos\Arwa_0522093\Arwa_0522093\obj\Debug\forget password.baml
+C:\Users\Administrator\source\repos\Arwa_0522093\Arwa_0522093\obj\Debug\MainWindow.baml
+C:\Users\Administrator\source\repos\Arwa_0522093\Arwa_0522093\obj\Debug\profail.baml
+C:\Users\Administrator\source\repos\Arwa_0522093\Arwa_0522093\obj\Debug\sign up.baml
+C:\Users\Administrator\source\repos\Arwa_0522093\Arwa_0522093\obj\Debug\sign_in.baml
+C:\Users\Administrator\source\repos\Arwa_0522093\Arwa_0522093\obj\Debug\Arwa_0522093.g.resources
+C:\Users\Administrator\source\repos\Arwa_0522093\Arwa_0522093\obj\Debug\Arwa_0522093.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Arwa_0522093\Arwa_0522093\obj\Debug\Arwa_0522093.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Arwa_0522093\Arwa_0522093\obj\Debug\Arwa_0522093.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Arwa_0522093\Arwa_0522093\obj\Debug\Arwa_0522093.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Arwa_0522093\Arwa_0522093\obj\Debug\Arwa_0522093.exe
+C:\Users\Administrator\source\repos\Arwa_0522093\Arwa_0522093\obj\Debug\Arwa_0522093.pdb
+C:\Users\Administrator\source\repos\Arwa_0522093\Arwa_0522093\obj\Debug\Delete.g.cs
+C:\Users\Administrator\source\repos\Arwa_0522093\Arwa_0522093\obj\Debug\search.g.cs
+C:\Users\Administrator\source\repos\Arwa_0522093\Arwa_0522093\obj\Debug\App.baml
+C:\Users\Administrator\source\repos\Arwa_0522093\Arwa_0522093\obj\Debug\Delete.baml
+C:\Users\Administrator\source\repos\Arwa_0522093\Arwa_0522093\obj\Debug\search.baml
+C:\Users\Administrator\source\repos\Arwa_0522093\Arwa_0522093\obj\Debug\Adminn.g.cs
+C:\Users\Administrator\source\repos\Arwa_0522093\Arwa_0522093\obj\Debug\Adminn.baml

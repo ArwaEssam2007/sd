@@ -1,0 +1,27 @@
+﻿<Application x:Class="Arwa_0522093.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Arwa_0522093"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <Style x:Key="Lable"  TargetType="Label" >
+            <Setter Property="Height" Value="60" ></Setter>
+            <Setter Property="BorderBrush" Value ="White" ></Setter>
+            <Setter Property="FontSize" Value="36" ></Setter>
+            <Setter Property="Margin" Value="132,504,0,0" ></Setter>
+            <Setter Property="Foreground" Value="White" ></Setter>
+
+        </Style>
+
+        <Style x:Key="txt" TargetType="Label">
+            <Setter Property="FontSize" Value="20" ></Setter>
+            <Setter Property="Background" Value="LightBlue" ></Setter>
+            <Setter Property="BorderBrush" Value="red" ></Setter>
+            <Setter Property="Foreground" Value="DarkBlue" ></Setter>
+            <Setter Property="Margin" Value="10,10,10,10" ></Setter>
+
+
+
+        </Style>
+    </Application.Resources>
+</Application>
